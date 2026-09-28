@@ -1,3 +1,1 @@
-# APIs & Pay-Per-Call Services
-
-TEMP placeholder while uploading full directory entry.
+LOAD_FROM_FILE:/workspace/gtm-doc-extract/push_now.json
