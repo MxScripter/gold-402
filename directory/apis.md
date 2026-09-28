@@ -1,1 +1,3 @@
-@/workspace/gtm-doc-extract/CONTENT_FOR_MCP.md
+# APIs & Pay-Per-Call Services
+
+TEMP placeholder while uploading full directory entry.
