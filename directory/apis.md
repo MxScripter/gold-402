@@ -1,1 +1,1 @@
-PLACEHOLDER_LOAD_FROM_FILE
+@/workspace/gtm-doc-extract/CONTENT_FOR_MCP.md
